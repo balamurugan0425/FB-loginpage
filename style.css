@@ -1,0 +1,64 @@
+
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+.container{
+   display: flex;
+   justify-content: space-around;
+}
+.container1{
+ width: 50vw;
+ height: 70vh;
+ margin: 200px 0 0 300px;
+
+}
+h3{
+   color:rgb(17, 120, 242) ;
+   font-size: 70px;
+}
+p{
+   font-size: x-large;
+}
+.container2{
+   margin: 11%;
+   box-shadow: 0 0 10px rgb(184, 180, 180);
+   width: 40%;
+   height: 300px;
+
+}
+form{
+  margin: 10x 0 0 20px;
+   text-align: center;
+
+}
+.input{
+   margin-top: 20px;
+}
+input{
+   padding: 10px;
+   width: 21vw;
+}
+button{
+   padding: 6px;
+   background-color:rgb(17, 120, 242);
+   width: 18vw;
+   border: 2px solid rgb(17, 120, 242);
+   border-radius: 2%;
+   color: aliceblue;
+   margin-bottom: 20px;
+}
+a{
+   text-decoration: none;
+   display: block;
+   
+}
+.newaccount{
+   background-color: rgb(21, 173, 18);
+   width: 15vw;
+   margin-top: 5px;
+}
+
+
